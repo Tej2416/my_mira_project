@@ -1,0 +1,13 @@
+[tejdeep/personalised-quiz-generator]
+name = "mira_project"
+version = "0.1.0"
+description = "A simple Mira flow project"
+authors = ["tejdeep"]
+
+[tejdeep/personalised-quiz-generator]
+python = "^3.13"
+mira-sdk = "^1.0.0"
+
+[build-system]
+requires = ["personalised-quiz-generator>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
