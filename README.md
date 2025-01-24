@@ -1,2 +1,3 @@
-# my_mira_project
-A mira flow to generate quiz based on user choice
+Quiz Generator Flow A versatile flow that creates customized quizzes on any topic with adjustable difficulty levels.
+
+Features Generate quizzes on any subject matter Adjustable difficulty levels (e.g., easy, medium, hard) Customizable number of questions Multiple question types (e.g., multiple choice, true/false, short answer) Instant feedback and scoring How to Use Select the desired topic for the quiz Choose the difficulty level Specify the number of questions Select the types of questions to include Run the flow to generate the quiz Take the quiz and receive instant feedback Review your score and correct answer
